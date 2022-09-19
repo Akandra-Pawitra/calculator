@@ -16,6 +16,7 @@
 .display {
   background: var(--light);
   height: 100px;
+  color: var(--darker);
 }
 
 .interface {
